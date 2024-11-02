@@ -1,0 +1,4 @@
+/home/alexandra/Desktop/temaPAOO/build/CMakeFiles/edit_cache.dir
+/home/alexandra/Desktop/temaPAOO/build/CMakeFiles/rebuild_cache.dir
+/home/alexandra/Desktop/temaPAOO/build/CMakeFiles/salut.dir
+/home/alexandra/Desktop/temaPAOO/build/CMakeFiles/lib.dir
