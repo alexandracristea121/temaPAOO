@@ -1,0 +1,4 @@
+/home/denisa/Desktop/tema2/temaPAOO/build/CMakeFiles/edit_cache.dir
+/home/denisa/Desktop/tema2/temaPAOO/build/CMakeFiles/rebuild_cache.dir
+/home/denisa/Desktop/tema2/temaPAOO/build/CMakeFiles/salut.dir
+/home/denisa/Desktop/tema2/temaPAOO/build/CMakeFiles/lib.dir
